@@ -1,0 +1,31 @@
+# Node.js dependencies
+node_modules/
+
+# Next.js build files
+.next/
+
+# Static export files
+out/
+
+# Log files
+*.log
+
+# Dependency directories
+bower_components/
+
+# Environment variables
+.env
+
+# Yarn files
+yarn.lock
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Public assets
+public/*.png
+
+# IDE specific files
+.vscode/
+.idea/
